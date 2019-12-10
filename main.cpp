@@ -22,6 +22,7 @@ int main(int argc, char** argv) {
 
     cout << "test"<<endl;
     cout << "cout2"<<endl;
+    cout << "Je suis louis Taillefer et j'ai acces a ton main haha"<<endl;
     return 0;
 }
 

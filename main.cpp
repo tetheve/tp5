@@ -21,7 +21,7 @@ using namespace std;
 int main(int argc, char** argv) {
 
     cout << "test"<<endl;
-
+    cout << "cout2"<<endl;
     return 0;
 }
 
